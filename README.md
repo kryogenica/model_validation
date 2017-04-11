@@ -1,5 +1,5 @@
 # model_validation
-PYTHON TCSH
+PYTHON & CSH
 Calling on various electron density software to carry out calculations in order to validate a PDB model.
 These codes are made for csh (e.g. ubuntun) and it also needs Python2.7 or above to run.
 It takes advantage of multiprocessing, so having mutliple cores on your machine will be advantageous. (At least 6 are required.)
